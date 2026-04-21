@@ -12,3 +12,7 @@ public:
         cout << "Nilai : " << nilai << endl;
     }
 };
+
+int main(){
+    
+}
