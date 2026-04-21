@@ -14,8 +14,9 @@ public:
 };
 
 int main(){
-    mahasiswa mhs;
+    Mahasiswa mhs;
     mhs.nim = 2022;
     mhs.nama = "Zidan";
     mhs.nilai = 90.5;
+    mhs.printData();
 }
